@@ -1,0 +1,34 @@
+## Caio on a stone wall by the sea: dusk teal dark with a sunset orange
+## accent, dark cyan for the water and gold for the sun path.
+
+mode = "dark"
+
+accent = "#e8955c"
+selection = "#1d3540"
+muted = "#5c7078"
+
+background = "#0f1b20"
+dark_background = "#0a1318"
+darker_background = "#070e12"
+lighter_background = "#16262d"
+
+foreground = "#e8dcc8"
+dark_foreground = "#9aa398"
+light_foreground = "#f0e7d8"
+bright_foreground = "#f8f2e6"
+
+red = "#d4614c"
+yellow = "#e3b25e"
+orange = "#e8955c"
+green = "#8aa86a"
+cyan = "#4fb3ba"
+blue = "#4f89a8"
+magenta = "#c07a85"
+brown = "#a06547"
+
+bright_red = "#e08268"
+bright_yellow = "#edc67e"
+bright_green = "#a3bd85"
+bright_cyan = "#72cdd3"
+bright_blue = "#6fa5c2"
+bright_magenta = "#d298a1"
