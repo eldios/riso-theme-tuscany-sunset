@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png" alt="Caio watching the sunset from a stone wall by the sea" width="920" />
+</p>
+
 # tuscany-sunset
 
 Caio on a stone wall, watching the sun sink into the sea: a dusk teal
